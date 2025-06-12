@@ -25,9 +25,10 @@ repo: "https://github.com/A-Journey-through-Deep-Learning/A-journey-through-Deep
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
 
-url: https://A-journey-through-Deep-Learning.github.io
+url: https://A-journey-through-Deep-Learning.github.io/2025
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
+baseurl: "/2025"
 
 
 # add google analytics if desired (optional)
