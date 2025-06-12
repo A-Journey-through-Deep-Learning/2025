@@ -6,10 +6,10 @@ nav: false
 
 In this website, you can download all the class materials for the course *A journey through Deep Learning*:
 
-- [Day 1](/Day1.md)
-- [Day 2](/Day2.md)
-- [Day 3](/Day3.md)
-- [Day 4](/Day4.md)
-- [Day 5](/Day5.md)
+- [Day 1](Day1.html)
+- [Day 2](Day2.html)
+- [Day 3](Day3.html)
+- [Day 4](Day4.html)
+- [Day 5](Day5.html)
 
 {% include figure.html img="image.jpg" alt="logo" width="30%" %}
