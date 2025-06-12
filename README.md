@@ -1,1 +1,1 @@
-Website for the Summer School: *A journey through Deep learning 2025*
+Online material for the summer school *A journey through Deep learning 2025*
