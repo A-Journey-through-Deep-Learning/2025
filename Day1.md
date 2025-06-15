@@ -11,7 +11,7 @@ Welcome to Day 1 of the school.
 ## 📚 Slides
 
 
-👉 [Download/view Day 1 slides (PDF)](slide_day_1.pdf)
+👉 [Download/view Day 1 slides (PDF)](/Slides/DNN.pdf)
 
 
 ---
