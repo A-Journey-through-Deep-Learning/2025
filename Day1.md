@@ -11,7 +11,8 @@ Welcome to Day 1 of the school.
 ## 📚 Slides
 
 
-👉 [Download/view Day 1 slides (PDF)](/Slides/DNN.pdf)
+👉 [Machine Learning Refresh](/Slides/ML_intro.pdf)
+👉 [Deep Neural Networks](/Slides/DNN.pdf)
 
 
 ---
