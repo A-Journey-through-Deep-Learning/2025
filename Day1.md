@@ -26,7 +26,7 @@ Welcome to Day 1 of the school.
 # Day 1 Introduction to Group Project
 
 
-👉 Use this [link]([https://forms.gle/hGhDGEffFXSCLEqv9](https://forms.gle/wTzCS6finBBTBCrw7)) to pick an application domain for the group project 
+👉 Use this [link](https://forms.gle/hGhDGEffFXSCLEqv9](https://forms.gle/wTzCS6finBBTBCrw7) to pick an application domain for the group project 
 
 
 ---
