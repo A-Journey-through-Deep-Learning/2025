@@ -3,9 +3,14 @@ title: Day 5
 nav: true
 ---
 
-# Day 5 Slides
+# Day 5 Group Project
 
 Welcome to Day 5 of the school.
+
+👉 Use this [link](https://forms.gle/hGhDGEffFXSCLEqv9) to pick an application domain for the group project 
+
+
+
 
 ## 📚 Slides
 
