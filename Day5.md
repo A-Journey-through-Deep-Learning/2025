@@ -7,10 +7,6 @@ nav: true
 
 Welcome to Day 5 of the school.
 
-👉 Use this [link](https://forms.gle/hGhDGEffFXSCLEqv9) to pick an application domain for the group project 
-
-
-
 
 ## 📚 Slides
 
