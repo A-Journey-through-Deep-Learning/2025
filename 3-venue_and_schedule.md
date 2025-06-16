@@ -8,4 +8,4 @@ nav: true
 
 * VENUE: Valletta Puggia DIBRIS-DIMA, Via Dodecaneso 12, Genova (GE), Italy. 
 
-![Image](https://github.com/user-attachments/assets/997c8263-122f-47fd-ab96-e9c775653c03)
+<img src="\images\schedule.png" width="300" height="200">
