@@ -4,6 +4,8 @@ nav: true
 
 ---
 
+
+
 # Day 1 Slides
 
 Welcome to Day 1 of the school.
@@ -19,6 +21,12 @@ Welcome to Day 1 of the school.
 👉 [Deep Neural Networks](/Slides/02_DNN.pdf)  
 <br>
 👉 [Hands on activity](/Hands_on/MLP_DNN.ipynb)
+
+
+# Day 1 Introduction to Group Project
+
+
+👉 Use this [link](https://forms.gle/hGhDGEffFXSCLEqv9) to pick an application domain for the group project 
 
 
 ---
