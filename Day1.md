@@ -11,7 +11,8 @@ Welcome to Day 1 of the school.
 ## 📚 Slides
 
 
-👉 [Machine Learning Refresh](/Slides/00_Prologue.pdf) 
+👉 [Prologue](/Slides/00_Prologue.pdf) 
+<br>
 <br>
 👉 [Machine Learning Refresh](/Slides/01_ML_intro.pdf)  
 <br>
