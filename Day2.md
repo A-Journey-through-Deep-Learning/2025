@@ -10,7 +10,7 @@ Welcome to Day 2 of the school.
 ## 📚 Slides
 
 
-👉 [CNNs](\Slides\03_CNN.pdf)
+👉 [CNNs](/Slides/03_CNN.pdf)
 
 
 ---
