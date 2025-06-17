@@ -9,6 +9,7 @@ nav: true
 # Day 1 Material
 
 Welcome to Day 1 of the school.
+<br>
 
 ## 📚 Slides
 
@@ -28,5 +29,5 @@ Welcome to Day 1 of the school.
 
 
 ---
-
+<br>
 [⬅ Back to main slides overview](home.md)
