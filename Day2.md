@@ -6,6 +6,7 @@ nav: true
 # Day 2 Material
 
 Welcome to Day 2 of the school.
+<br>
 
 ## 📚 Slides
 
@@ -21,6 +22,7 @@ Welcome to Day 2 of the school.
 
 👉 [Hands on activity](/Hands_on/CNN_hands-on.ipynb)
 
+<br>
 ---
 
 [⬅ Back to main slides overview](home.md)
