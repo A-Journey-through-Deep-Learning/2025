@@ -20,15 +20,11 @@ Welcome to Day 1 of the school.
 <br>
 👉 [Deep Neural Networks](/Slides/02_DNN.pdf)  
 <br>
+👉 [Introduction to the Group Project](/Slides/GroupProjectPresentation.pdf) --> Use this [link](https://forms.gle/wTzCS6finBBTBCrw7) to pick an application domain for the group project  
+<br>
 
 ## 📚 Hands-On
 👉 [Hands on activity](/Hands_on/MLP_DNN.ipynb)
-
-
-# Day 1 Introduction to Group Project
-
-
-👉 Use this [link](https://forms.gle/wTzCS6finBBTBCrw7) to pick an application domain for the group project 
 
 
 ---
