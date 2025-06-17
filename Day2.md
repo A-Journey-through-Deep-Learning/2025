@@ -3,7 +3,7 @@ title: Day2
 nav: true
 ---
 
-# Day 2 Slides
+# Day 2 Material
 
 Welcome to Day 2 of the school.
 
@@ -16,6 +16,11 @@ Welcome to Day 2 of the school.
 👉 [CNN applications](/Slides/04_CNN_applications.pdf)
 <br>
 <br>
+
+## 📚 Hands-On
+
+👉 [Hands on activity](/Hands_on/CNN_hands-on.ipynb)
+
 ---
 
 [⬅ Back to main slides overview](home.md)
