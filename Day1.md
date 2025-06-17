@@ -6,7 +6,7 @@ nav: true
 
 
 
-# Day 1 Slides
+# Day 1 Material
 
 Welcome to Day 1 of the school.
 
@@ -20,6 +20,8 @@ Welcome to Day 1 of the school.
 <br>
 👉 [Deep Neural Networks](/Slides/02_DNN.pdf)  
 <br>
+
+## 📚 Hands-On
 👉 [Hands on activity](/Hands_on/MLP_DNN.ipynb)
 
 
