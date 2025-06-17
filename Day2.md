@@ -11,8 +11,9 @@ Welcome to Day 2 of the school.
 
 
 👉 [CNNs](/Slides/03_CNN.pdf)
-
-
+\br  
+👉 [CNN applications](/Slides/04_CNN_applications.pdf)
+\br  
 ---
 
 [⬅ Back to main slides overview](home.md)
