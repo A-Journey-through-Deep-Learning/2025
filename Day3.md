@@ -6,6 +6,7 @@ nav: true
 # Day 3 Material
 
 Welcome to Day 3 of the school.
+<br>
 
 ## 📚 Slides
 
@@ -18,6 +19,7 @@ Welcome to Day 3 of the school.
 
 👉 [Hands on activity](/Hands_on/CRNNs_and_Transformers.ipynb)
 
+<br>
 ---
 
 [⬅ Back to main slides overview](home.md)
