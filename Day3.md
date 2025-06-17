@@ -13,7 +13,6 @@ Welcome to Day 3 of the school.
 👉 [RNNs and Transformers](/Slides/05_Networks4Sequences.pdf)
 
 <br>
-<br>
 
 ## 📚 Hands-On
 
