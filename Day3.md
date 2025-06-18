@@ -17,7 +17,7 @@ Welcome to Day 3 of the school.
 
 ## 📚 Hands-On
 
-👉 [Hands on activity](/Hands_on/CRNNs_and_Transformers.ipynb)
+👉 [Hands on activity](/Hands_on/RNNs_and_Transformers.ipynb)
 
 <br>
 ---
