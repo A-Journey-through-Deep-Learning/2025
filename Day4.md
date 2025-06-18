@@ -12,6 +12,8 @@ Welcome to Day 4 of the school.
 
 👉 [Download/view Day 4 slides (PDF)](slide_day_1.pdf)
 
+👉 [Diffusion models](/Slides/06_Diffusion_models.pdf)
+
 
 ---
 
