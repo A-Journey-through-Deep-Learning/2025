@@ -3,7 +3,7 @@ title: Day4
 nav: true
 ---
 
-# Day 4 Slides
+# Day 4 Material
 
 Welcome to Day 4 of the school.
 
