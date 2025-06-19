@@ -7,11 +7,9 @@ nav: true
 
 Welcome to Day 5 of the school.
 
+## 📚 Groups
 
-## 📚 Slides
-
-
-👉 [Download/view Day 5 slides (PDF)](slide_day_1.pdf)
+👉 [Group members](Groups.pdf)
 
 
 ---
