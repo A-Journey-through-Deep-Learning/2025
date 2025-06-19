@@ -9,6 +9,7 @@ Welcome to Day 4 of the school.
 
 ## 📚 Slides
 
+👉 [AEs and GANs](06_Autoencoders_GANS.pdf)
 
 👉 [Download/view Day 4 slides (PDF)](slide_day_1.pdf)
 
