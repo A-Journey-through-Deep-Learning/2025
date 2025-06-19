@@ -27,7 +27,7 @@ Welcome to Day 1 of the school.
 ## 📚 Hands-On
 👉 [Hands on activity](/Hands_on/MLP_DNN.ipynb)
 
-👉 [Interlude](/Hands_on/MLP_Keras_tf_PyTorch)
+👉 [Interlude: how to code an MLP in Keras, TensorFlow and PyTorch](/Hands_on/MLP_Keras_tf_PyTorch)
 
 ---
 <br>
